@@ -46,8 +46,6 @@ htmlcov/
 # Local cache and temporary work directories
 work/
 outputs/
-.impeccable/review/
-.impeccable/*.png
 
 # IDE and Editor artifacts
 .vscode/

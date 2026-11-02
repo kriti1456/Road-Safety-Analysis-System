@@ -77,7 +77,7 @@ This project addresses this by providing:
 ## 4. Folder Structure
 
 ```
-chdroadintelligence/
+Road-Safety-Analysis-System/
 ├── backend/                  # Server-side application and analytics engine
 │   ├── __init__.py           # Package indicator
 │   ├── analytics.py          # Spatial binning, filtering, metrics, and simulations
@@ -157,7 +157,7 @@ chdroadintelligence/
 
 1. Open PowerShell and navigate to the project directory:
    ```powershell
-   cd C:\path\to\chdroadintelligence-main
+   cd C:\Users\hppav\OneDrive\Documents\VSCODE\Road-Safety-Analysis-System
    ```
 
 2. Create a virtual environment:

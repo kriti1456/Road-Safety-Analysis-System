@@ -242,7 +242,7 @@ The content reveal is a 300ms ease-out blur resolution; reduced motion removes i
 - **Don't** add decorative uppercase kickers above section headings.
 - **Don't** imply that synthetic counts or hypothetical outcomes are verified risk or causal forecasts.
 
-<!-- Evidence: static/style.css, static/index.html, static/app.js; PRODUCT.md and .impeccable/direction.md; rendered review desktop.png and mobile-intervention.png. The review directory contains desktop/mobile captures for all eight views. Standard and comparison multi-series charts both honor reduced motion; no implementation was changed in this documentation handoff. -->
+<!-- Evidence: static/style.css, static/index.html, static/app.js; PRODUCT.md; captured desktop and mobile views. The outputs/screenshots directory contains captures for all eight views. Standard and comparison multi-series charts both honor reduced motion; no implementation was changed in this documentation handoff. -->
 
 ## Minimal presentation (user revision)
 

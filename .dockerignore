@@ -4,4 +4,3 @@ outputs
 .git
 __pycache__
 .pytest_cache
-.impeccable

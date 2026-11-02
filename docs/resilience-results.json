@@ -1,0 +1,12 @@
+{
+  "passed": [
+    "Inverted dates blocked inline and reset recovers",
+    "API failure preserves interface and Retry recovers",
+    "Download failure stays in workspace and re-enables download",
+    "Rapid navigation leaves latest route coherent",
+    "Reduced motion and screen-reader completion status",
+    "Phone controls avoid input zoom; map attribution and legend do not overlap",
+    "Keyboard chart data action applies the shared filter"
+  ],
+  "page_errors": []
+}

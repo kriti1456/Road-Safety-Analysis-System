@@ -1,5 +1,4 @@
-# Product
-<!-- impeccable:product-schema 1 -->
+# Product Specification
 ## Platform
 web
 ## Stack
@@ -13,7 +12,7 @@ Eight working views, shared filters, deterministic analytics and scenarios, stat
 ## Brand Commitments
 CHD / ROAD INTELLIGENCE. Distinctive editorial design studio quality, map as central anchor; responsive and accessible.
 ## Evidence on Hand
-Detailed user brief; C.R.A.S.H source inspected in work/reference. Earlier assistant technical review unavailable as content-reference tokens. Geographical anchors must derive from documented OSM data.
+Detailed user requirements brief; C.R.A.S.H source inspected in work/reference. Geographical anchors derived from documented OSM data.
 ## Product Principles
 Data truth before ornament. Reproducible calculations. Separate counts from weighted burden. Show assumptions alongside hypothetical outcomes.
 ## Open decisions

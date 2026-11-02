@@ -19,7 +19,7 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / ".impeccable" / "review"
+OUT = ROOT / "outputs" / "screenshots"
 OUT.mkdir(parents=True, exist_ok=True)
 OUTPUTS_DIR = ROOT / "outputs"
 OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
