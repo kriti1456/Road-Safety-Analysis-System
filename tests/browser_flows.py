@@ -208,4 +208,5 @@ with sync_playwright() as p:
     browser.close()
 
 print(json.dumps({"passed": results, "page_errors": errors}, indent=2))
-(ROOT / "docs/browser-results.json").write_text(json.dumps({"passed": results, "page_errors": errors}, indent=2) + "\n")
+OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
+(OUTPUTS_DIR / "browser-results.json").write_text(json.dumps({"passed": results, "page_errors": errors}, indent=2) + "\n")

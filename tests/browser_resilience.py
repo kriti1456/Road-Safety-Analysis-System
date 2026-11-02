@@ -107,5 +107,7 @@ with sync_playwright() as p:
     browser.close()
 
 result = {"passed": checks, "page_errors": errors}
-(ROOT / "docs" / "resilience-results.json").write_text(json.dumps(result, indent=2) + "\n")
+outputs_dir = ROOT / "outputs"
+outputs_dir.mkdir(parents=True, exist_ok=True)
+(outputs_dir / "resilience-results.json").write_text(json.dumps(result, indent=2) + "\n")
 print(json.dumps(result, indent=2))

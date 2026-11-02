@@ -1,1 +1,0 @@
-{"name":"road-safety-analysis-system","version":"1.0.0","private":true,"scripts":{"start":"uvicorn backend.main:app --host 127.0.0.1 --port 8000","test":"pytest -q","test:browser":"python tests/browser_flows.py","check":"node --check static/app.js","generate":"python scripts/generate_data.py"}}
