@@ -1,0 +1,1 @@
+{"name":"chd-road-intelligence","version":"1.0.0","private":true,"scripts":{"start":".venv/bin/uvicorn backend.main:app --host 127.0.0.1 --port 8000","test":".venv/bin/python -m pytest -q","test:browser":".venv/bin/python tests/browser_flows.py","check":"node --check static/app.js","generate":".venv/bin/python scripts/generate_data.py"}}

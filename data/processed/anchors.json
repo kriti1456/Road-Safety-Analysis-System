@@ -1,0 +1,343 @@
+{
+  "source": "OpenStreetMap contributors via OSM v0.6 API",
+  "endpoint": "https://api.openstreetmap.org/api/0.6/map",
+  "query": "Nine map bbox requests, 0.02-degree tiles over longitude 76.75-76.81 and latitude 30.70-30.76; retain complete named primary, secondary, trunk and tertiary ways",
+  "retrieved": "2026-10-22",
+  "osm_base_timestamp": null,
+  "license": "ODbL 1.0",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "source_url": "https://www.openstreetmap.org/copyright",
+  "extent": [
+    76.73,
+    30.69,
+    76.83,
+    30.77
+  ],
+  "notes": "Selected named road segments only. Study extent is not an official city boundary. Anchor areas are analytical labels, not administrative units.",
+  "anchors": [
+    {
+      "road_name": "Jan Marg",
+      "osm_way_id": 129335455,
+      "segment": [
+        [
+          76.7483193,
+          30.7237569
+        ],
+        [
+          76.7463941,
+          30.7226038
+        ]
+      ],
+      "longitude": 76.74735670000001,
+      "latitude": 30.72318035,
+      "id": "A01",
+      "name": "Jan Marg / A01"
+    },
+    {
+      "road_name": "Himalaya Marg",
+      "osm_way_id": 129345511,
+      "segment": [
+        [
+          76.7536095,
+          30.7170903
+        ],
+        [
+          76.7519132,
+          30.7160479
+        ]
+      ],
+      "longitude": 76.75276135,
+      "latitude": 30.7165691,
+      "id": "A02",
+      "name": "Himalaya Marg / A02"
+    },
+    {
+      "road_name": "Sarovar Path",
+      "osm_way_id": 129434088,
+      "segment": [
+        [
+          76.7616516,
+          30.7131504
+        ],
+        [
+          76.7583562,
+          30.7110769
+        ]
+      ],
+      "longitude": 76.76000389999999,
+      "latitude": 30.71211365,
+      "id": "A03",
+      "name": "Sarovar Path / A03"
+    },
+    {
+      "road_name": "Chandi Path",
+      "osm_way_id": 129450322,
+      "segment": [
+        [
+          76.7789199,
+          30.7060204
+        ],
+        [
+          76.7775195,
+          30.7051467
+        ]
+      ],
+      "longitude": 76.7782197,
+      "latitude": 30.70558355,
+      "id": "A04",
+      "name": "Chandi Path / A04"
+    },
+    {
+      "road_name": "Dakshin Marg",
+      "osm_way_id": 129450327,
+      "segment": [
+        [
+          76.7970648,
+          30.6966083
+        ],
+        [
+          76.7979948,
+          30.6957754
+        ]
+      ],
+      "longitude": 76.7975298,
+      "latitude": 30.696191849999998,
+      "id": "A05",
+      "name": "Dakshin Marg / A05"
+    },
+    {
+      "road_name": "Dakshin Marg",
+      "osm_way_id": 129450327,
+      "segment": [
+        [
+          76.7908137,
+          30.7032214
+        ],
+        [
+          76.7912006,
+          30.7027862
+        ]
+      ],
+      "longitude": 76.79100715,
+      "latitude": 30.703003799999998,
+      "id": "A06",
+      "name": "Dakshin Marg / A06"
+    },
+    {
+      "road_name": "Dakshin Marg",
+      "osm_way_id": 129453610,
+      "segment": [
+        [
+          76.7791066,
+          30.7141454
+        ],
+        [
+          76.779609,
+          30.7136116
+        ]
+      ],
+      "longitude": 76.7793578,
+      "latitude": 30.7138785,
+      "id": "A07",
+      "name": "Dakshin Marg / A07"
+    },
+    {
+      "road_name": "Sarovar Path",
+      "osm_way_id": 129460473,
+      "segment": [
+        [
+          76.7678203,
+          30.7170598
+        ],
+        [
+          76.7710774,
+          30.7191479
+        ]
+      ],
+      "longitude": 76.76944885,
+      "latitude": 30.71810385,
+      "id": "A08",
+      "name": "Sarovar Path / A08"
+    },
+    {
+      "road_name": "Dakshin Marg",
+      "osm_way_id": 129464028,
+      "segment": [
+        [
+          76.7675932,
+          30.7271637
+        ],
+        [
+          76.7667358,
+          30.7282082
+        ]
+      ],
+      "longitude": 76.7671645,
+      "latitude": 30.72768595,
+      "id": "A09",
+      "name": "Dakshin Marg / A09"
+    },
+    {
+      "road_name": "Himalaya Marg",
+      "osm_way_id": 129464030,
+      "segment": [
+        [
+          76.7785458,
+          30.7327311
+        ],
+        [
+          76.7789973,
+          30.7330134
+        ]
+      ],
+      "longitude": 76.77877155,
+      "latitude": 30.73287225,
+      "id": "A10",
+      "name": "Himalaya Marg / A10"
+    },
+    {
+      "road_name": "Dakshin Marg",
+      "osm_way_id": 129473421,
+      "segment": [
+        [
+          76.7573651,
+          30.74003
+        ],
+        [
+          76.7563939,
+          30.7413699
+        ]
+      ],
+      "longitude": 76.7568795,
+      "latitude": 30.74069995,
+      "id": "A11",
+      "name": "Dakshin Marg / A11"
+    },
+    {
+      "road_name": "Dakshin Marg",
+      "osm_way_id": 129473430,
+      "segment": [
+        [
+          76.7510061,
+          30.7488383
+        ],
+        [
+          76.7526074,
+          30.746612
+        ]
+      ],
+      "longitude": 76.75180675,
+      "latitude": 30.74772515,
+      "id": "A12",
+      "name": "Dakshin Marg / A12"
+    },
+    {
+      "road_name": "Dakshin Marg",
+      "osm_way_id": 129473442,
+      "segment": [
+        [
+          76.762337,
+          30.7336319
+        ],
+        [
+          76.7614637,
+          30.7347704
+        ]
+      ],
+      "longitude": 76.76190034999999,
+      "latitude": 30.734201149999997,
+      "id": "A13",
+      "name": "Dakshin Marg / A13"
+    },
+    {
+      "road_name": "Jan Marg",
+      "osm_way_id": 129473456,
+      "segment": [
+        [
+          76.772848,
+          30.7390922
+        ],
+        [
+          76.7701212,
+          30.7373779
+        ]
+      ],
+      "longitude": 76.77148460000001,
+      "latitude": 30.73823505,
+      "id": "A14",
+      "name": "Jan Marg / A14"
+    },
+    {
+      "road_name": "Udyan Path",
+      "osm_way_id": 129473895,
+      "segment": [
+        [
+          76.7480875,
+          30.7326268
+        ],
+        [
+          76.7476479,
+          30.732354
+        ]
+      ],
+      "longitude": 76.7478677,
+      "latitude": 30.7324904,
+      "id": "A15",
+      "name": "Udyan Path / A15"
+    },
+    {
+      "road_name": "Udyog Path",
+      "osm_way_id": 129476903,
+      "segment": [
+        [
+          76.7683025,
+          30.7470377
+        ],
+        [
+          76.7667924,
+          30.7489678
+        ]
+      ],
+      "longitude": 76.76754745,
+      "latitude": 30.748002749999998,
+      "id": "A16",
+      "name": "Udyog Path / A16"
+    },
+    {
+      "road_name": "Vidya Marg",
+      "osm_way_id": 129476914,
+      "segment": [
+        [
+          76.7620306,
+          30.7552322
+        ],
+        [
+          76.7622986,
+          30.7549022
+        ]
+      ],
+      "longitude": 76.7621646,
+      "latitude": 30.7550672,
+      "id": "A17",
+      "name": "Vidya Marg / A17"
+    },
+    {
+      "road_name": "Purv Marg",
+      "osm_way_id": 129553412,
+      "segment": [
+        [
+          76.8069418,
+          30.7146175
+        ],
+        [
+          76.8072842,
+          30.7148317
+        ]
+      ],
+      "longitude": 76.807113,
+      "latitude": 30.7147246,
+      "id": "A18",
+      "name": "Purv Marg / A18"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+fastapi==0.159.1
+uvicorn==0.54.0
+pandas==3.1.0
+numpy==2.5.4
+pyproj==3.8.0
+reportlab==5.1.0

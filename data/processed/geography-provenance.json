@@ -1,0 +1,17 @@
+{
+  "source": "OpenStreetMap contributors via OSM v0.6 API",
+  "endpoint": "https://api.openstreetmap.org/api/0.6/map",
+  "query": "Nine map bbox requests, 0.02-degree tiles over longitude 76.75-76.81 and latitude 30.70-30.76; retain complete named primary, secondary, trunk and tertiary ways",
+  "retrieved": "2026-10-22",
+  "osm_base_timestamp": null,
+  "license": "ODbL 1.0",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "source_url": "https://www.openstreetmap.org/copyright",
+  "extent": [
+    76.73,
+    30.69,
+    76.83,
+    30.77
+  ],
+  "notes": "Selected named road segments only. Study extent is not an official city boundary. Anchor areas are analytical labels, not administrative units."
+}

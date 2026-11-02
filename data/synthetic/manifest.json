@@ -1,0 +1,17 @@
+{
+  "seed": 20261022,
+  "rows": 10000,
+  "start": "2024-07-01",
+  "end": "2026-06-30",
+  "sha256": "c8b04e32c2d30fe83dc960a34e0ebf376dc4b23e435954815715e6edc0e8f012",
+  "mode": "synthetic",
+  "generator_version": "1.0",
+  "assumptions": [
+    "Evening peak sampling",
+    "Monsoon days upweighted 20%",
+    "Fatal probability +2.5 percentage points at night, +2 points in rain",
+    "Serious probability +6 points at night",
+    "Last two anchors receive 4x geographical selection weight in final 90 days",
+    "Uneven corridor weights and vehicle mix are invented"
+  ]
+}

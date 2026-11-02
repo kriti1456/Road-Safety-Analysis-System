@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-22T13:14:57.948886+00:00",
+  "title": "Design System: CHD / Road Intelligence",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "primary",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0279 211.04)",
+          "oklch(26% 0.0279 211.04)",
+          "oklch(38% 0.0279 211.04)",
+          "oklch(49% 0.0279 211.04)",
+          "oklch(61% 0.0279 211.04)",
+          "oklch(72% 0.0279 211.04)",
+          "oklch(84% 0.0279 211.04)",
+          "oklch(95% 0.0279 211.04)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0093 113.16)",
+          "oklch(26% 0.0093 113.16)",
+          "oklch(38% 0.0093 113.16)",
+          "oklch(49% 0.0093 113.16)",
+          "oklch(61% 0.0093 113.16)",
+          "oklch(72% 0.0093 113.16)",
+          "oklch(84% 0.0093 113.16)",
+          "oklch(95% 0.0093 113.16)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface",
+        "tonalRamp": [
+          "oklch(15% 0.0066 106.52)",
+          "oklch(26% 0.0066 106.52)",
+          "oklch(38% 0.0066 106.52)",
+          "oklch(49% 0.0066 106.52)",
+          "oklch(61% 0.0066 106.52)",
+          "oklch(72% 0.0066 106.52)",
+          "oklch(84% 0.0066 106.52)",
+          "oklch(95% 0.0066 106.52)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.0213 209.45)",
+          "oklch(26% 0.0213 209.45)",
+          "oklch(38% 0.0213 209.45)",
+          "oklch(49% 0.0213 209.45)",
+          "oklch(61% 0.0213 209.45)",
+          "oklch(72% 0.0213 209.45)",
+          "oklch(84% 0.0213 209.45)",
+          "oklch(95% 0.0213 209.45)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15% 0.0151 132.49)",
+          "oklch(26% 0.0151 132.49)",
+          "oklch(38% 0.0151 132.49)",
+          "oklch(49% 0.0151 132.49)",
+          "oklch(61% 0.0151 132.49)",
+          "oklch(72% 0.0151 132.49)",
+          "oklch(84% 0.0151 132.49)",
+          "oklch(95% 0.0151 132.49)"
+        ]
+      },
+      "teal": {
+        "role": "primary",
+        "displayName": "Teal",
+        "tonalRamp": [
+          "oklch(15% 0.0710 192.47)",
+          "oklch(26% 0.0710 192.47)",
+          "oklch(38% 0.0710 192.47)",
+          "oklch(49% 0.0710 192.47)",
+          "oklch(61% 0.0710 192.47)",
+          "oklch(72% 0.0710 192.47)",
+          "oklch(84% 0.0710 192.47)",
+          "oklch(95% 0.0710 192.47)"
+        ]
+      },
+      "red": {
+        "role": "secondary",
+        "displayName": "Red",
+        "tonalRamp": [
+          "oklch(15% 0.1702 30.38)",
+          "oklch(26% 0.1702 30.38)",
+          "oklch(38% 0.1702 30.38)",
+          "oklch(49% 0.1702 30.38)",
+          "oklch(61% 0.1702 30.38)",
+          "oklch(72% 0.1702 30.38)",
+          "oklch(84% 0.1702 30.38)",
+          "oklch(95% 0.1702 30.38)"
+        ]
+      },
+      "amber": {
+        "role": "secondary",
+        "displayName": "Amber",
+        "tonalRamp": [
+          "oklch(15% 0.1109 68.94)",
+          "oklch(26% 0.1109 68.94)",
+          "oklch(38% 0.1109 68.94)",
+          "oklch(49% 0.1109 68.94)",
+          "oklch(61% 0.1109 68.94)",
+          "oklch(72% 0.1109 68.94)",
+          "oklch(84% 0.1109 68.94)",
+          "oklch(95% 0.1109 68.94)"
+        ]
+      },
+      "cyan": {
+        "role": "tertiary",
+        "displayName": "Cyan",
+        "tonalRamp": [
+          "oklch(15% 0.0334 184.81)",
+          "oklch(26% 0.0334 184.81)",
+          "oklch(38% 0.0334 184.81)",
+          "oklch(49% 0.0334 184.81)",
+          "oklch(61% 0.0334 184.81)",
+          "oklch(72% 0.0334 184.81)",
+          "oklch(84% 0.0334 184.81)",
+          "oklch(95% 0.0334 184.81)"
+        ]
+      },
+      "category-blue": {
+        "role": "tertiary",
+        "displayName": "Category Blue",
+        "tonalRamp": [
+          "oklch(15% 0.0692 256.99)",
+          "oklch(26% 0.0692 256.99)",
+          "oklch(38% 0.0692 256.99)",
+          "oklch(49% 0.0692 256.99)",
+          "oklch(61% 0.0692 256.99)",
+          "oklch(72% 0.0692 256.99)",
+          "oklch(84% 0.0692 256.99)",
+          "oklch(95% 0.0692 256.99)"
+        ]
+      },
+      "category-olive": {
+        "role": "tertiary",
+        "displayName": "Category Olive",
+        "tonalRamp": [
+          "oklch(15% 0.0619 129.12)",
+          "oklch(26% 0.0619 129.12)",
+          "oklch(38% 0.0619 129.12)",
+          "oklch(49% 0.0619 129.12)",
+          "oklch(61% 0.0619 129.12)",
+          "oklch(72% 0.0619 129.12)",
+          "oklch(84% 0.0619 129.12)",
+          "oklch(95% 0.0619 129.12)"
+        ]
+      },
+      "category-plum": {
+        "role": "tertiary",
+        "displayName": "Category Plum",
+        "tonalRamp": [
+          "oklch(15% 0.0822 345.91)",
+          "oklch(26% 0.0822 345.91)",
+          "oklch(38% 0.0822 345.91)",
+          "oklch(49% 0.0822 345.91)",
+          "oklch(61% 0.0822 345.91)",
+          "oklch(72% 0.0822 345.91)",
+          "oklch(84% 0.0822 345.91)",
+          "oklch(95% 0.0822 345.91)"
+        ]
+      },
+      "nav-active": {
+        "role": "neutral",
+        "displayName": "Nav Active",
+        "tonalRamp": [
+          "oklch(15% 0.0237 149.36)",
+          "oklch(26% 0.0237 149.36)",
+          "oklch(38% 0.0237 149.36)",
+          "oklch(49% 0.0237 149.36)",
+          "oklch(61% 0.0237 149.36)",
+          "oklch(72% 0.0237 149.36)",
+          "oklch(84% 0.0237 149.36)",
+          "oklch(95% 0.0237 149.36)"
+        ]
+      },
+      "nav-hover": {
+        "role": "neutral",
+        "displayName": "Nav Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0329 211.00)",
+          "oklch(26% 0.0329 211.00)",
+          "oklch(38% 0.0329 211.00)",
+          "oklch(49% 0.0329 211.00)",
+          "oklch(61% 0.0329 211.00)",
+          "oklch(72% 0.0329 211.00)",
+          "oklch(84% 0.0329 211.00)",
+          "oklch(95% 0.0329 211.00)"
+        ]
+      },
+      "notice": {
+        "role": "secondary",
+        "displayName": "Notice",
+        "tonalRamp": [
+          "oklch(15% 0.1085 81.13)",
+          "oklch(26% 0.1085 81.13)",
+          "oklch(38% 0.1085 81.13)",
+          "oklch(49% 0.1085 81.13)",
+          "oklch(61% 0.1085 81.13)",
+          "oklch(72% 0.1085 81.13)",
+          "oklch(84% 0.1085 81.13)",
+          "oklch(95% 0.1085 81.13)"
+        ]
+      },
+      "notice-ink": {
+        "role": "secondary",
+        "displayName": "Notice Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0317 89.04)",
+          "oklch(26% 0.0317 89.04)",
+          "oklch(38% 0.0317 89.04)",
+          "oklch(49% 0.0317 89.04)",
+          "oklch(61% 0.0317 89.04)",
+          "oklch(72% 0.0317 89.04)",
+          "oklch(84% 0.0317 89.04)",
+          "oklch(95% 0.0317 89.04)"
+        ]
+      },
+      "panel-insight": {
+        "role": "neutral",
+        "displayName": "Panel Insight",
+        "tonalRamp": [
+          "oklch(15% 0.0171 145.44)",
+          "oklch(26% 0.0171 145.44)",
+          "oklch(38% 0.0171 145.44)",
+          "oklch(49% 0.0171 145.44)",
+          "oklch(61% 0.0171 145.44)",
+          "oklch(72% 0.0171 145.44)",
+          "oklch(84% 0.0171 145.44)",
+          "oklch(95% 0.0171 145.44)"
+        ]
+      },
+      "panel-inspector": {
+        "role": "neutral",
+        "displayName": "Panel Inspector",
+        "tonalRamp": [
+          "oklch(15% 0.0143 128.63)",
+          "oklch(26% 0.0143 128.63)",
+          "oklch(38% 0.0143 128.63)",
+          "oklch(49% 0.0143 128.63)",
+          "oklch(61% 0.0143 128.63)",
+          "oklch(72% 0.0143 128.63)",
+          "oklch(84% 0.0143 128.63)",
+          "oklch(95% 0.0143 128.63)"
+        ]
+      },
+      "panel-scenario": {
+        "role": "neutral",
+        "displayName": "Panel Scenario",
+        "tonalRamp": [
+          "oklch(15% 0.0153 136.08)",
+          "oklch(26% 0.0153 136.08)",
+          "oklch(38% 0.0153 136.08)",
+          "oklch(49% 0.0153 136.08)",
+          "oklch(61% 0.0153 136.08)",
+          "oklch(72% 0.0153 136.08)",
+          "oklch(84% 0.0153 136.08)",
+          "oklch(95% 0.0153 136.08)"
+        ]
+      },
+      "map-ground": {
+        "role": "neutral",
+        "displayName": "Map Ground",
+        "tonalRamp": [
+          "oklch(15% 0.0154 145.45)",
+          "oklch(26% 0.0154 145.45)",
+          "oklch(38% 0.0154 145.45)",
+          "oklch(49% 0.0154 145.45)",
+          "oklch(61% 0.0154 145.45)",
+          "oklch(72% 0.0154 145.45)",
+          "oklch(84% 0.0154 145.45)",
+          "oklch(95% 0.0154 145.45)"
+        ]
+      },
+      "chart-grid": {
+        "role": "neutral",
+        "displayName": "Chart Grid",
+        "tonalRamp": [
+          "oklch(15% 0.0145 128.64)",
+          "oklch(26% 0.0145 128.64)",
+          "oklch(38% 0.0145 128.64)",
+          "oklch(49% 0.0145 128.64)",
+          "oklch(61% 0.0145 128.64)",
+          "oklch(72% 0.0145 128.64)",
+          "oklch(84% 0.0145 128.64)",
+          "oklch(95% 0.0145 128.64)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Page titles; responsive overrides are recorded in DESIGN.md."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section headings."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Compact bold titles."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Reading and global base text."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Static labels, controls, table text, and captions; canvas text is configured separately."
+      },
+      "metric": {
+        "displayName": "Metric",
+        "purpose": "Condensed numerical ledger values."
+      },
+      "scenario": {
+        "displayName": "Scenario",
+        "purpose": "Hypothetical model result."
+      }
+    },
+    "shadows": [
+      {
+        "name": "ambient-toast",
+        "value": "0 8px 24px #172c301a",
+        "purpose": "Transient fixed toast only."
+      }
+    ],
+    "motion": [
+      {
+        "name": "content-resolve",
+        "value": "300ms ease-out; blur(1px) to blur(0)",
+        "purpose": "Content replacement; disabled under reduced motion."
+      },
+      {
+        "name": "chart-resolve",
+        "value": "350ms",
+        "purpose": "Standard and comparison multi-series chart transitions; disabled under reduced motion."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "scroll-behavior:auto; content animation:none; Leaflet zoom transition:none",
+        "purpose": "Shipped CSS preference handling; map zoom, fade, and marker animations are also disabled at construction."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-min",
+        "value": "1600px"
+      },
+      {
+        "name": "compact-desktop-max",
+        "value": "1150px"
+      },
+      {
+        "name": "flowing-navigation-max",
+        "value": "850px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "560px"
+      }
+    ],
+    "minimalPresentation": {
+      "source": "User requested minimal design and removal of unnecessary text",
+      "pageTitleMax": "48px",
+      "sectionHeading": "24px",
+      "provenance": "One persistent synthetic-data notice; retain map attribution and concise model limitations",
+      "disclosure": [
+        "Data",
+        "Model details",
+        "Methodology sections"
+      ],
+      "overview": "Metrics, map, rankings, monthly/factor charts, emerging activity",
+      "filters": "Dates and area visible; remaining filters in native disclosure with active count"
+    }
+  },
+  "components": [
+    {
+      "name": "Primary action",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The compact ink-filled main action.",
+      "html": "<button class=\"ds-primary\">Export report</button>",
+      "css": ".ds-primary{font-family:DM,sans-serif;font-size:11px;color:var(--ink,#172c30);display:inline-flex;align-items:center;justify-content:center;min-height:38px;padding:10px 15px;border:1px solid var(--ink,#172c30);border-radius:0;font-weight:600;cursor:pointer;background:var(--ink,#172c30);color:var(--paper,#f3f4ed)}.ds-primary:hover{background:#2c4f52}.ds-primary:disabled{opacity:.45;cursor:wait}.ds-primary:focus-visible,.ds-outline:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-rank:focus-visible{outline:3px solid var(--red,#bc3929);outline-offset:3px}"
+    },
+    {
+      "name": "Outline action",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "Secondary actions within the shared workspace.",
+      "html": "<button class=\"ds-outline\">Apply filters</button>",
+      "css": ".ds-outline{font-family:DM,sans-serif;font-size:11px;color:var(--ink,#172c30);display:inline-flex;align-items:center;justify-content:center;min-height:38px;padding:10px 15px;border:1px solid var(--ink,#172c30);border-radius:0;font-weight:600;cursor:pointer;background:transparent}.ds-outline:hover{background:#dfe7dc}.ds-primary:focus-visible,.ds-outline:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-rank:focus-visible{outline:3px solid var(--red,#bc3929);outline-offset:3px}"
+    },
+    {
+      "name": "Labelled field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "A square field with an explicit compact label.",
+      "html": "<label class=\"ds-label\">Road-anchor area<select class=\"ds-field\"><option>All areas</option><option>Jan Marg / A01</option></select></label>",
+      "css": ".ds-label{font-family:DM,sans-serif;font-size:11px;color:var(--ink,#172c30);display:flex;flex-direction:column;gap:5px;color:var(--muted,#516265)}.ds-field{font-family:DM,sans-serif;font-size:11px;color:var(--ink,#172c30);min-height:36px;border:1px solid #b9c4b9;background:var(--surface,#fcfcf7);border-radius:0;padding:7px 9px}.ds-field:hover{cursor:pointer}.ds-primary:focus-visible,.ds-outline:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-rank:focus-visible{outline:3px solid var(--red,#bc3929);outline-offset:3px}"
+    },
+    {
+      "name": "Rail navigation",
+      "kind": "nav",
+      "refersTo": "nav-active",
+      "description": "Selected and resting links on the ink rail.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Example navigation\"><a class=\"ds-active\" aria-current=\"page\" href=\"#overview\">Overview</a><a href=\"#explorer\">Hotspot explorer</a></nav>",
+      "css": ".ds-nav{background:var(--ink,#172c30);padding:22px;display:flex;flex-direction:column;gap:6px;width:226px}.ds-nav a{font:13px DM,sans-serif;padding:11px 12px;color:#d1dcd5;text-decoration:none}.ds-nav a:hover{background:var(--nav-hover,#294348)}.ds-nav a.ds-active{background:var(--nav-active,#d6e5d8);color:var(--ink,#172c30)}.ds-primary:focus-visible,.ds-outline:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-rank:focus-visible{outline:3px solid var(--red,#bc3929);outline-offset:3px}"
+    },
+    {
+      "name": "Severity tag",
+      "kind": "chip",
+      "refersTo": "status",
+      "description": "A labelled severity value; not an interactive filter.",
+      "html": "<span class=\"ds-status\">Serious</span>",
+      "css": ".ds-status{font:11px DM,sans-serif;display:inline-block;border:1px solid currentColor;color:var(--amber,#9b6418);padding:2px 6px;border-radius:0}"
+    },
+    {
+      "name": "Interpretation panel",
+      "kind": "card",
+      "refersTo": "insight-panel",
+      "description": "A flat supporting explanation region.",
+      "html": "<aside class=\"ds-insight\"><h2>Interpret with care.</h2><p>Patterns reflect generator assumptions, not verified conditions on Chandigarh roads.</p></aside>",
+      "css": ".ds-insight{background:var(--panel-insight,#dfe9df);padding:22px;color:var(--ink,#172c30)}.ds-insight h2{font:600 29px/1.1 Barlow,sans-serif;letter-spacing:-.015em;margin:0 0 15px}.ds-insight p{font:12px/1.5 DM,sans-serif;max-width:70ch;margin:0 0 13px}"
+    },
+    {
+      "name": "Synthetic evidence notice",
+      "kind": "custom",
+      "refersTo": "synthetic-notice",
+      "description": "Persistent status above the analytical workspace.",
+      "html": "<div class=\"ds-notice\">SYNTHETIC DEMONSTRATION DATA <span>\u2014 NOT VERIFIED REAL-WORLD CRASH RECORDS</span></div>",
+      "css": ".ds-notice{background:var(--notice,#e4b96b);color:var(--notice-ink,#302917);font:700 11px/1.5 DM,sans-serif;letter-spacing:.085em;text-align:center;padding:8px 12px}@media(max-width:560px){.ds-notice span{display:block}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Swiss Transport Statistics Annual",
+    "overview": "A chalk-ground analytical publication with a deep ink navigation rail, condensed headings, and quiet ruled data regions. The visual world borrows the discipline of transport statistics: compact labels, generous titles, explicit assumptions, and a map that carries the geographical argument. It does not simulate paper texture.\n\nThe same shell serves eight analytical views. Colour makes severity and category identity durable across metrics, maps, charts, tables, and comparison. The synthetic-data notice is part of the persistent shell, because the status of the evidence must remain visible while users investigate it.",
+    "keyCharacteristics": [
+      "Condensed editorial hierarchy with tabular numbers.",
+      "Square, ruled analytical regions and tonal information panels.",
+      "Stable severity and category colours with textual labels.",
+      "Persistent provenance and accessible chart-data tables."
+    ],
+    "rules": [
+      {
+        "name": "The Stable Meaning Rule",
+        "body": "Fatal / high burden uses red, serious / elevated uses amber, and minor / lower uses teal. Non-severity categories retain their metadata-index colour when sorted or filtered.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Type Voices Rule",
+        "body": "Use Barlow Condensed for headings and analytical numbers; use DM Sans for reading, controls, labels, and tables. Keep canvas tick and legend labels at the shipped 11px size.",
+        "section": "typography"
+      },
+      {
+        "name": "The Ruled Surface Rule",
+        "body": "Separate analytical regions with ink rules, fine dividers, and muted tonal fills. Reserve the ambient shadow for the transient toast.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep the synthetic-data notice visible across all eight views.",
+      "Do preserve severity colour meanings and label each meaning in text.",
+      "Do accompany charts with readable summaries and expandable data tables.",
+      "Do stack analytical columns and allow local table/navigation scrolling on narrow screens.",
+      "Do keep attribution, study-extent qualifications, and selected-cell identity attached to the map."
+    ],
+    "donts": [
+      "Don't introduce rounded card stacks or ambient shadows to resting analytical regions.",
+      "Don't turn canvas chart labels into a second display typeface.",
+      "Don't add decorative uppercase kickers above section headings.",
+      "Don't imply that synthetic counts or hypothetical outcomes are verified risk or causal forecasts."
+    ]
+  }
+}
